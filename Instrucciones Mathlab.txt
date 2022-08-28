@@ -1,0 +1,9 @@
+# Ecuaciones-Diferenciales
+En este repositorio se encuentra mi trabajo de ecuaciones diferenciales con los respectivos archivos, como codigos de mathlab
+
+1. Primero copiar el codigo de MathLab que aparece en el archivo, de nombre "Codigo de Mathlab Daniel Fernando Ordoñez Moncayo"
+2. Pegar el codigo en  Mathlab 
+3. Compilar el codigo en MathLab 
+
+Nota: en esta acrpeta tambien se encuentran los respectivos arhivos de  mathlab(.m), uselos en caso de que los codigos anteriores no le hayan funcionado 
+
